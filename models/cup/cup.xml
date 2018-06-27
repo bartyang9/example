@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<model version="1">
+    <geom type="cylinder" sx="0.045" sy="0.045" sz="0.06" tx="0" ty="0" tz="0" rx="0" ry="0" rz="0" red="22" green="133" blue="97" />
+</model>
